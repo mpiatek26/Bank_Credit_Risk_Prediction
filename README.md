@@ -1,1 +1,1 @@
-# Bank_Customer_Segmentation
+# Bank_Credit_Risk_Prediction
